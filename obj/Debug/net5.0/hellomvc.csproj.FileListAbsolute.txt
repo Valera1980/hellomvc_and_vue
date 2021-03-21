@@ -38,3 +38,6 @@
 /mnt/afe01ad8-a763-4688-94a9-8827ed472dfa/dotnet/hellomvc/obj/Debug/net5.0/hellomvc.pdb
 /mnt/afe01ad8-a763-4688-94a9-8827ed472dfa/dotnet/hellomvc/obj/Debug/net5.0/hellomvc.genruntimeconfig.cache
 /mnt/afe01ad8-a763-4688-94a9-8827ed472dfa/dotnet/hellomvc/obj/Debug/net5.0/hellomvc.csproj.CopyComplete
+/mnt/afe01ad8-a763-4688-94a9-8827ed472dfa/dotnet/hellomvc/bin/Debug/net5.0/scripts/package-lock.json
+/mnt/afe01ad8-a763-4688-94a9-8827ed472dfa/dotnet/hellomvc/bin/Debug/net5.0/scripts/package.json
+/mnt/afe01ad8-a763-4688-94a9-8827ed472dfa/dotnet/hellomvc/bin/Debug/net5.0/scripts/tsconfig.json

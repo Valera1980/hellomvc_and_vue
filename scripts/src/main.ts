@@ -1,8 +1,14 @@
 import Vue from "vue";
-import App from "./App.vue";
+import HelloWorld  from './components/HelloWorld.vue';
+import About  from './components/About.vue';
 
 Vue.config.productionTip = false;
+console.log('============ init Vue instance =================');
 
-new Vue({
-  render: (h) => h(App),
-}).$mount("#app");
+Vue.component('helloworld', HelloWorld);
+Vue.component('about-comp', About);
+
+
+new Vue().$mount("#app");
+
+
